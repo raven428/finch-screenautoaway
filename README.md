@@ -3,7 +3,7 @@ auto away all accounts when screen detached
 ## install
 `alt-a -> plugins -> install new plugin -> screenautoaway.pl -> [X]`
 ## configure
-`screen socket path` - path where placed your screen sockets like this:
+`screen socket path` - path with your screen sockets like this:
 ~~~
 ls /tmp/screens
 total 4
